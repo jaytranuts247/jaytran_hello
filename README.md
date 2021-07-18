@@ -13,7 +13,7 @@
 
 **This Dynamic Image's from -> [Capsule-Render](https://github.com/kyechan99/capsule-render) - Press F5!**
 
-![footer](https://capsule-render.vercel.app/api?type=rounded&color=00FF00&fontColor=fff&height=300&section=footer&text=%20Open%20To%20Work%20&fontSize=80&textBg=false&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=rounded&color=0BDA51&fontColor=fff&height=300&section=footer&text=%20Open%20To%20Work%20&fontSize=80&textBg=false&animation=fadeIn)
 <!--
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
