@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontColor=fff&text=%20Code%20%3d%3E%20For%20Life&fontSize=80&textBg=false&animation=fadeIn)
-
 #### 👋 Hi, I'm Jay Tran. I'm developing for better life.
 
 - 🔬 I am self-taught Full-Stack oSftware Engineer
