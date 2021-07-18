@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontColor=fff&text=%20Code%20%3d%3E%20For%20Life&fontSize=80&textBg=false&animation=fadeIn)
 
-👋 Hi, I'm Jay Tran. I'm developing for better life.
+#### 👋 Hi, I'm Jay Tran. I'm developing for better life.
 
 - 🔬 I am self-taught Full-Stack oSftware Engineer
 - 🌱 I am looking  React | Frontend | Backend | Nodejs Developer positions.
