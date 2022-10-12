@@ -5,7 +5,7 @@
 - 🔬 I am self-taught Full-Stack oSftware Engineer
 - 🌱 I am looking  React | Frontend | Backend | Nodejs Developer positions.
 - 👨🏻‍💻 Passionate in coding and learning new technologies.
-- 👨‍🚀 I am OPEN-TO-WORK now.
+- 👨‍🚀 I am OPEN-TO-WORK.
 - 🤔 I am open source project contributor.
 - 🏒I love listening music, reading, coding as my hobbies.
 - 📧 you can reach me at [tranquang2407@gmail.com](tranquang2407@gmail.com)
